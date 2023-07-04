@@ -22,29 +22,5 @@
   "title": "Кроссовки Puma X Aka Boku Future Rider",
   "price": 8999,
   "image": "/img/sneakers/image2.jpg"
- },
- {
-  "id": "5",
-  "title": "Мужские Кроссовки Under Armour Curry 8",
-  "price": 15199,
-  "image": "/img/sneakers/image5.jpg"
- },
- {
-  "id": "6",
-  "title": "Мужские Кроссовки Nike Kyrie 7",
-  "price": 11299,
-  "image": "/img/sneakers/image6.jpg"
- },
- {
-  "id": "7",
-  "title": "Мужские Кроссовки Jordan Air Jordan 11",
-  "price": 10799,
-  "image": "/img/sneakers/image7.jpg"
- },
- {
-  "id": "8",
-  "title": "Мужские Кроссовки Nike LeBron XVIII",
-  "price": 16499,
-  "image": "/img/sneakers/image8.jpg"
  }
 ]
